@@ -1,0 +1,10 @@
+github index https://github.com/
+wuzheng2006abc@126.com
+git config --global user.name "YOUR NAME"
+git config --global user.email "YOUR EMAIL ADDRESS"
+
+git clone username@host:/path/to/repository
+
+git add *
+git commit -m "commit change"
+git push origin master
