@@ -8,3 +8,8 @@ git clone username@host:/path/to/repository
 git add *
 git commit -m "commit change"
 git push origin master
+
+git checkout -b feature_one
+git checkout master  //切换回主干
+git checkout feature_one  //切换回分支
+git commit -m "add some note."
